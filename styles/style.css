@@ -318,6 +318,7 @@
 .cont5 .whiterect {
   background-image: url(../images/rectwhite.png);
   height: 540px;
+  background-repeat: no-repeat;
 }
 .cont5 .whiterect .ppp {
   position: absolute;
